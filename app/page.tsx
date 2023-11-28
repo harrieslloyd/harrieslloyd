@@ -32,9 +32,11 @@ export default function Home() {
 						<Tabs fullWidth variant="bordered">
 							<Tab key="printer" title="the printer">
 								<Card className="border-2 border-zinc-700">
-									<Image
+								<Image
 										alt="image of the printer"
-										src="https://picsum.photos/750/1000"
+										width={750}
+										height={850}
+										src="https://via.placeholder.com/750x850"
 									/>
 									<CardFooter>this is my 3d printer!</CardFooter>
 								</Card>
@@ -43,7 +45,9 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://picsum.photos/750/1000"
+										width={750}
+										height={850}
+										src="https://via.placeholder.com/750x850"
 									/>
 									<CardFooter>i installed a direct drive</CardFooter>
 								</Card>
@@ -52,7 +56,9 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://picsum.photos/750/1000"
+										width={750}
+										height={850}
+										src="https://via.placeholder.com/750x850"
 									/>
 									<CardFooter>i soldered some lights</CardFooter>
 								</Card>
@@ -61,7 +67,9 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://picsum.photos/750/1000"
+										width={750}
+										height={850}
+										src="https://via.placeholder.com/750x850"
 									/>
 									<CardFooter>the new silent motherboard makes the motors silent</CardFooter>
 								</Card>
@@ -70,7 +78,9 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://picsum.photos/750/1000"
+										width={750}
+										height={850}
+										src="https://via.placeholder.com/750x850"
 									/>
 									<CardFooter>i set up and compiled my own custom firmware! </CardFooter>
 								</Card>
@@ -79,7 +89,9 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://picsum.photos/750/1000"
+										width={750}
+										height={850}
+										src="https://via.placeholder.com/750x850"
 									/>
 									<CardFooter><div><p className="inline max-w-full whitespace-pre-wrap">octopi allows me to completly control my printer from my computer or my phone</p></div></CardFooter>
 								</Card>
