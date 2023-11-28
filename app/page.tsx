@@ -34,7 +34,7 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 									<Image
 										alt="image of the printer"
-										src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+										src="https://picsum.photos/1000/1250"
 									/>
 									<CardFooter>this is my 3d printer!</CardFooter>
 								</Card>
@@ -43,7 +43,7 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+										src="https://picsum.photos/1000/1250"
 									/>
 									<CardFooter>i installed a direct drive</CardFooter>
 								</Card>
@@ -52,7 +52,7 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+										src="https://picsum.photos/1000/1250"
 									/>
 									<CardFooter>i soldered some lights</CardFooter>
 								</Card>
@@ -61,7 +61,7 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+										src="https://picsum.photos/1000/1250"
 									/>
 									<CardFooter>the new silent motherboard makes the motors silent</CardFooter>
 								</Card>
@@ -70,7 +70,7 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+										src="https://picsum.photos/1000/1250"
 									/>
 									<CardFooter>i set up and compiled my own custom firmware! </CardFooter>
 								</Card>
@@ -79,7 +79,7 @@ export default function Home() {
 								<Card className="border-2 border-zinc-700">
 								<Image
 										alt="image of the printer"
-										src="https://nextui-docs-v2.vercel.app/images/hero-card-complete.jpeg"
+										src="https://picsum.photos/1000/1250"
 									/>
 									<CardFooter><div><p className="inline max-w-full whitespace-pre-wrap">octopi allows me to completly control my printer from my computer or my phone</p></div></CardFooter>
 								</Card>
