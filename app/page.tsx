@@ -88,12 +88,11 @@ export default function Home() {
 							<Tab key="octo" title="octopi">
 								<Card className="border-2 border-zinc-700">
 								<Image
-										alt="image of the printer"
+										alt="gif of a 3d print timelapse"
 										width={750}
-										height={850}
-										src="https://via.placeholder.com/750x850"
+										src="benchy.gif"
 									/>
-									<CardFooter><div><p className="inline max-w-full whitespace-pre-wrap">octopi allows me to completly control my printer from my computer or my phone</p></div></CardFooter>
+									<CardFooter><div><p className="inline max-w-full whitespace-pre-wrap">octopi allows me to completly control my printer from my computer or my phone and make cool timelapses!</p></div></CardFooter>
 								</Card>
 							</Tab>
 						</Tabs>
